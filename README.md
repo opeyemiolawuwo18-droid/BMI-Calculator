@@ -14,5 +14,5 @@ This algorithm is built for practice and it calculates Body Mass Index from weig
 ## Future improvements
 
 ## Author
-Opeyemi Olwuwo
+Opeyemi Olwuwo  
 LinkedIn: 
