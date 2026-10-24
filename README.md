@@ -8,7 +8,7 @@ No live site to demonstrate yet
 Weight  
 Height  
 BMI  
-Category
+BMI Category
 
 ## How to run
 1. Enter your weight
